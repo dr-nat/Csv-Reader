@@ -1,6 +1,0 @@
-id,name,email,age,is_premium
-1,Alice Johnson,alice@example.com,28,true
-2,Bob Smith,bob.smith@provider.net,34,false
-3,Charlie Brown,charlie@gmail.com,22,true
-4,Diana Prince,diana.p@themyscira.com,30,false
-5,Edward Norton,edward@fightclub.com,45,true
